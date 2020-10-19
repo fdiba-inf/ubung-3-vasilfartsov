@@ -22,3 +22,5 @@ public class AngleCalculation{
       }
     }
     while(type=='r'||type=='d');
+  }
+}
